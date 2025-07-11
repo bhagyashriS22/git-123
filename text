@@ -7,4 +7,4 @@ version 4 for restore command
 version 5
 version 6 for pull command
 version 7 for fetch command
-
+version 8 for confict reslove
